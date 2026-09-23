@@ -1,4 +1,4 @@
-# Hi, I'm Clawdyy Ap 👋
+# Hi, I'm Ap 👋
 
 **Software Developer · Automation Engineer · Trading Systems** — India
 
