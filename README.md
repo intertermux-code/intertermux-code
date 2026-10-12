@@ -8,6 +8,18 @@ from MetaTrader terminals to rooted Android devices.
 
 ---
 
+### 🚀 My Projects
+
+| Project | What it is |
+|---|---|
+| [serialq](https://pypi.org/project/serialq/) | Cross-process serial execution gate + persistent FIFO job queue (stdlib-only, POSIX) |
+| [llmroutes](https://pypi.org/project/llmroutes/) | Benchmark-driven router for OpenAI-compatible endpoints — fastest/cheapest/balanced with fallback |
+| [retryflake](https://pypi.org/project/retryflake/) | Run flaky commands with retries, exponential backoff, per-attempt timeouts |
+| [ffclip](https://pypi.org/project/ffclip/) | Humane ffmpeg — 10 recipes (compress, trim, GIF, concat…) with sane defaults |
+| [reelforge](https://github.com/intertermux-code/reelforge) | Bulk-create Instagram Reels / TikToks / Shorts from photos + music (desktop app) |
+
+All PyPI packages ship via trusted publishing, with CI on every commit.
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,10 +40,15 @@ from MetaTrader terminals to rooted Android devices.
 
 ### 🤝 Open Source
 
-Active contributor — currently working with [CADdy](https://github.com/furkanbulus123/CADdy),
-an AI assistant for FreeCAD.
+Active contributor across the ecosystem — TypeWhisper (14 PRs merged), Sentry Python,
+claude-mem, Univer, Headroom, CADdy, and more. I fix real issues in trending repos,
+no drive-by PRs.
 
 ### 📊 GitHub Stats
 
 [![Clawdyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=intertermux-code&show_icons=true&theme=tokyonight)](https://github.com/intertermux-code)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intertermux-code&layout=compact&theme=tokyonight)](https://github.com/intertermux-code)
+
+### 📫 Connect
+
+- Email: intertermux@gmail.com
