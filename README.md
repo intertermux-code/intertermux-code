@@ -41,8 +41,8 @@ All PyPI packages ship via trusted publishing, with CI on every commit.
 ### 🤝 Open Source
 
 Active contributor across the ecosystem — TypeWhisper (14 PRs merged), Sentry Python,
-claude-mem, Univer, Headroom, CADdy, and more. I fix real issues in trending repos,
-no drive-by PRs.
+claude-mem, Univer, Headroom, CADdy, aiohttp, sharkdp/bat, microsoft/markitdown, and more.
+I fix real issues in trending repos, no drive-by PRs.
 
 ### 📊 GitHub Stats
 
